@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  description: Short API lol description
+  description: Short API lole description
   version: "0.1"
   title: API Documentation Title
   termsOfService: ""
